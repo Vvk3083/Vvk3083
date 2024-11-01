@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvk3083&label=Profile%20views&color=0e75b6&style=flat" alt="vvk3083" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **C++,HTML,CSS,JavaScript,React**
 
