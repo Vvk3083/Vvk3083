@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">An Enthusiastic Developer on a Journey to Master Front-End and C++.</h3>
+<h3 align="center">An Enthusiastic Developer on a Journey to Master Web Dev and C++.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvk3083&label=Profile%20views&color=0e75b6&style=flat" alt="vvk3083" /> </p>
 
