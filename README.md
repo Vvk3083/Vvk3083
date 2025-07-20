@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvk3083&label=Profile%20views&color=0e75b6&style=flat" alt="vvk3083" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MCP servers**
 
-- 💬 Ask me about **C++,HTML,CSS,JavaScript,React,Node.js**
+- 💬 Ask me about **C++,HTML,CSS,JavaScript,React,Node.js,MongoDB**
 
 - ⚡ **"Always walk the talk"**
 
